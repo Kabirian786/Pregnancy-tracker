@@ -1,0 +1,16 @@
+یہ فولڈر خالی ہے - براہ کرم درج ذیل فونٹ فائلیں یہاں رکھیں:
+
+1. NotoNastaliqUrdu-Regular.ttf
+2. NotoNastaliqUrdu-Bold.ttf
+
+ڈاؤن لوڈ کا طریقہ:
+- Google Fonts کی ویب سائٹ کھولیں: https://fonts.google.com/noto/specimen/Noto+Nastaliq+Urdu
+- "Download family" پر کلک کریں
+- ZIP فائل میں سے Regular اور Bold .ttf فائلیں نکال کر یہاں اس فولڈر میں رکھیں
+- فائلوں کا نام یقینی بنائیں کہ اوپر لکھے ناموں سے مکمل مماثل ہو (case-sensitive)
+
+متبادل: اگر آپ Jameel Noori Nastaleeq یا کوئی اور اردو فونٹ استعمال کرنا چاہتے ہیں تو:
+- فائل کا نام وہی رکھیں جو pubspec.yaml میں لکھا ہے، یا
+- pubspec.yaml اور lib/services/pdf_service.dart میں فونٹ فائل کا نام/پاتھ تبدیل کر دیں
+
+نوٹ: یہ فونٹ فائلیں کاپی رائٹ فری اور مکمل طور پر آفلائن استعمال کے لیے موزوں ہیں (Noto Nastaliq Urdu گوگل کا اوپن سورس فونٹ ہے - SIL Open Font License).
